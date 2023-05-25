@@ -140,7 +140,9 @@ post_class: post-template
 ================================================== -->
 
 <div class="container">
-    <a href="https://gobroke.org/admin/#/collections/post/entries/{{ File.basename(page.name, File.extname(page.name)) }}">Edit this post</a>
+    <div class="row justify-content-center mb-5">
+        <a href="https://gobroke.org/admin/#/collections/post/entries/{{ page.name }}">Edit this post</a>
+    </div>
 </div>
 
 <!-- Begin Comments
