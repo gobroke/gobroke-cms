@@ -21,10 +21,9 @@ comments: true
 <br>
 <br>
 
-No crypto? Reduce your reliance on central bankers currency, you can <a target="_blank" href="https://www.moonpay.com/buy">buy cryptocurrency</a> here with a debit or credit card.
+No crypto? Reduce your reliance on central banks, you can <a target="_blank" href="https://www.moonpay.com/buy">buy cryptocurrency</a> here with a debit or credit card.
 
 </p>
 
-</div>
 </div>
 </div>
