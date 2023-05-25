@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master # Branch to update (master by default)
   repo: gobroke/gobroke-cms
   open_authoring: true
