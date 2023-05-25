@@ -1,13 +1,13 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Go Woke Go Broke"
+title: "Go Woke Go Broke"
+description: "When businesses lose touch with their core customer base, their financial stability is put at risk. Stand up for your values, boycott woke corporations."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 'https://gobroke.org'
 google_analytics: ''
 disqus: 'gobroke'
-mailchimp-list: ''
+mailchimp-list: 'https://gobroke.us17.list-manage.com/subscribe/post?u=b62af801b1c07decba83359e5&amp;id=7ed38369fd&amp;f_id=00127de0f0'
 include: ["_pages"]
 permalink: /:title/
 
@@ -63,8 +63,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+adsense-data-ad-client: ""
+adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
