@@ -4,7 +4,7 @@ title: "Go Woke Go Broke"
 description: "When businesses lose touch with their core customer base, their financial stability is put at risk. Stand up for your values, boycott woke corporations."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://gobroke.org'
+baseurl: 'https://gobroke.org/'
 google_analytics: ''
 disqus: 'gobroke'
 mailchimp-list: 'https://gobroke.us17.list-manage.com/subscribe/post?u=b62af801b1c07decba83359e5&amp;id=7ed38369fd&amp;f_id=00127de0f0'
@@ -14,22 +14,12 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    name: Tyler Durden
+    display_name: Tyler Durden
+    gravatar: 5f4e6aace9a7c3d20eb58f631ea63b25
+    email: gobrokecontact@protonmail.com
+    web: https://gobroke.org
+    description: ""
 
 # Plugins
 plugins:
