@@ -305,12 +305,16 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: 'Times New Roman';
 }
 
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
+}
+
+.mainheading .lead {
+    font-family: 'Merriweather';
 }
 
 .footer {
