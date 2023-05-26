@@ -1,6 +1,11 @@
 ---
 layout: post
 title: CIA-led Bud Light runs failed PSYOP targeting children, degrading women
+author: "Tyler Durden"
+categories: [gobroke, marketing, trans, intelligence]
+image: assets/images/budlight1.jpg
+description: "Bud Light, the CIA-run company facing additional backlash for promoting alcohol consumption to miners"
+featured: true
 ---
 Psychological operations (PSYOP) have long been a part of intelligence strategies, shaping narratives and perceptions to achieve strategic objectives. While the Central Intelligence Agency (CIA) has been associated with such operations, claims about the CIA placing individuals in CEO positions to execute psychological operations warrant further exploration. Let us shed light on the dynamics between intelligence agencies and corporate leadership.                                                                                                                                                                                         
 
