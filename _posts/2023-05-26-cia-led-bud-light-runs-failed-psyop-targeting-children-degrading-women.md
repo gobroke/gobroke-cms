@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CIA-led Bud Light runs failed PSYOP targeting children, degrading women
-author: "Tyler Durden"
+author: tyler
 categories: [gobroke, marketing, trans, intelligence]
 image: assets/images/budlight1.jpg
 description: "Bud Light, the CIA-run company facing additional backlash for promoting alcohol consumption to miners"
