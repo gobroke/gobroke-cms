@@ -14,8 +14,8 @@ permalink: /:title/
 # Authors
 authors:
   tyler:
-    name: 'Tyler Durden'
-    display_name: 'Tyler Durden'
+    name: Tyler
+    display_name: Tyler Durden
     gravatar: d2543c2ed8592c701f174188e8d42009
     email: gobrokecontact@protonmail.com
     web: https://gobroke.org
